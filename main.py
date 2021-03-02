@@ -9,7 +9,7 @@ while running:
     elif Check_if_want_sign_up == "yes":
         print("Ok, lets start by setting up your username and password")
         Sign_up_username = input("Create your username: ")
-        Sign_up_password = input("Create a password")
+        Sign_up_password = input("Create a password: ")
         print("Now enter the credentials you just made")
         Username = ""
         Password = ""
